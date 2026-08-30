@@ -21,3 +21,5 @@ Nothing fancy, it's just a to-do-list
 
 #note
 just for practice
+
+![demo](to-do.gif)
