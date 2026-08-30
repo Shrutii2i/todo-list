@@ -15,12 +15,12 @@ Nothing fancy, it's just a to-do-list
   - Backend: Node.js + Express
   - Database: SQLite
 
-#What's next
+# What's next
 - cleaning up the styling
 - clear button
 
-#note
+# note
 just for practice
 
-#Demo
-![demo](to-do.gif)
+# Demo
+![demo](./client/src/to-do.gif)
