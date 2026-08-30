@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121 115" width="121" height="115">
+  <defs>
+    <style>
+      .outline{stroke:#8f6659;stroke-width:1.05;stroke-linecap:round;stroke-linejoin:round}
+      .soft{stroke:#a87568;stroke-width:.8;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+
+  <!-- Tail behind body -->
+  <path class="outline" fill="#fffdf8"
+        d="M77.7 76.4 C91.6 80.1 96.9 87.2 93.8 95.4
+           C91.2 102.3 83.3 108.2 73.8 109.4
+           C68.6 110.1 64.5 107.6 66.2 103.5
+           C68.0 99.0 74.8 95.7 80.0 92.4
+           C86.0 88.5 87.7 84.7 82.3 82.0" />
+
+  <!-- Body -->
+  <path class="outline" fill="#fffdf8"
+        d="M38.7 52.9
+           C33.8 61.5 35.0 78.5 38.0 88.9
+           C40.7 98.1 49.7 101.8 62.7 100.6
+           C76.7 99.4 83.1 92.3 82.5 78.8
+           C82.0 67.1 75.5 57.6 66.1 53.6
+           C57.0 49.7 46.1 49.4 38.7 52.9 Z" />
+
+  <!-- Back leg -->
+  <path class="soft" fill="#fffdf8"
+        d="M38.3 75.0 C37.4 82.0 36.9 91.8 39.2 97.3
+           C40.3 99.9 43.6 100.5 45.0 98.2
+           C46.2 96.1 45.0 91.0 44.7 86.8" />
+
+  <!-- Front legs -->
+  <path class="outline" fill="#fffdf8"
+        d="M45.7 76.1 C44.9 83.6 44.7 92.6 45.7 97.0
+           C46.3 99.8 49.1 100.6 50.5 98.3
+           C51.7 96.3 50.5 88.0 51.2 81.5" />
+  <path class="soft" fill="none"
+        d="M44.3 94.6 C45.0 96.8 46.3 98.1 48.0 98.2" />
+
+  <!-- Strawberry hood/head -->
+  <path class="outline" fill="#f47b4e"
+        d="M27.4 13.8
+           C19.0 18.0 14.4 27.2 14.7 38.4
+           C15.1 51.5 21.6 63.4 32.5 68.0
+           C42.0 72.1 54.7 69.0 61.1 61.2
+           C68.0 52.8 71.0 38.5 66.6 26.6
+           C63.6 18.5 56.1 13.0 47.2 11.8
+           C39.8 10.8 33.1 11.1 27.4 13.8 Z" />
+
+  <!-- Strawberry leaves -->
+  <path class="outline" fill="#8fbe55"
+        d="M42.0 14.0 C38.2 9.9 35.8 6.3 36.6 2.4
+           C39.9 3.8 42.5 6.6 43.8 9.7
+           C44.5 5.2 46.2 2.0 49.0 .7
+           C50.0 5.0 49.0 8.6 47.5 11.0
+           C52.0 8.0 56.0 7.3 59.3 8.1
+           C56.9 11.4 53.2 13.3 49.0 14.0
+           C53.2 15.0 56.7 16.7 58.7 19.0
+           C53.7 19.7 48.7 17.7 45.3 15.6
+           C42.3 18.1 38.1 20.0 34.0 19.2
+           C36.0 16.9 38.7 15.1 42.0 14.0 Z" />
+
+  <!-- Strawberry seeds -->
+  <g fill="#a9533e" opacity=".9">
+    <ellipse cx="25.0" cy="24.0" rx=".9" ry="1.7" transform="rotate(18 25 24)"/>
+    <ellipse cx="33.0" cy="18.9" rx=".8" ry="1.5" transform="rotate(18 33 18.9)"/>
+    <ellipse cx="43.0" cy="19.0" rx=".8" ry="1.5" transform="rotate(-8 43 19)"/>
+    <ellipse cx="54.0" cy="22.0" rx=".8" ry="1.5" transform="rotate(22 54 22)"/>
+    <ellipse cx="61.0" cy="30.0" rx=".8" ry="1.5" transform="rotate(15 61 30)"/>
+    <ellipse cx="20.8" cy="35.0" rx=".8" ry="1.5" transform="rotate(10 20.8 35)"/>
+    <ellipse cx="27.0" cy="45.0" rx=".8" ry="1.5" transform="rotate(12 27 45)"/>
+    <ellipse cx="60.0" cy="43.0" rx=".8" ry="1.5" transform="rotate(18 60 43)"/>
+    <ellipse cx="22.0" cy="53.0" rx=".8" ry="1.5" transform="rotate(18 22 53)"/>
+    <ellipse cx="34.0" cy="61.0" rx=".8" ry="1.5" transform="rotate(-12 34 61)"/>
+    <ellipse cx="49.0" cy="62.0" rx=".8" ry="1.5" transform="rotate(10 49 62)"/>
+    <ellipse cx="57.0" cy="54.0" rx=".8" ry="1.5" transform="rotate(15 57 54)"/>
+  </g>
+
+  <!-- Face opening -->
+  <path class="outline" fill="#fffdf8"
+        d="M28.5 29.2
+           C31.4 25.0 37.0 23.6 43.5 23.7
+           C51.2 23.7 56.8 25.8 59.2 30.2
+           C61.0 33.5 60.7 41.5 58.8 44.9
+           C56.5 49.0 50.9 50.7 43.0 50.5
+           C35.4 50.3 29.7 48.5 27.8 44.4
+           C26.3 41.2 26.5 32.1 28.5 29.2 Z" />
+
+  <!-- Face -->
+  <circle cx="33.0" cy="36.1" r="1.25" fill="#70453d"/>
+  <circle cx="53.7" cy="36.1" r="1.25" fill="#70453d"/>
+  <ellipse cx="29.8" cy="41.1" rx="2.2" ry="1.7" fill="#ee7756" opacity=".75"/>
+  <ellipse cx="56.8" cy="41.1" rx="2.2" ry="1.7" fill="#ee7756" opacity=".75"/>
+  <ellipse cx="43.3" cy="38.8" rx="1.9" ry="1.45" fill="#c96851"/>
+  <path class="soft" fill="none" d="M43.3 40.0 L43.3 43.1 M43.3 42.2 C41.7 44.2 40.5 44.1 39.7 43.3 M43.3 42.2 C44.9 44.2 46.1 44.1 46.9 43.3"/>
+  <path class="soft" fill="none" d="M39.2 33.2 C40.5 32.5 41.5 32.5 42.2 32.9 M44.5 32.9 C45.5 32.4 46.4 32.5 47.4 33.2"/>
+
+  <!-- Tiny whiskers -->
+  <path class="soft" fill="none" d="M28.0 39.4 L23.8 38.7 M28.0 41.6 L23.7 42.1 M58.8 39.4 L62.8 38.7 M58.8 41.6 L63.0 42.1"/>
+
+  <!-- Soft body markings -->
+  <g fill="#caa59b" opacity=".55">
+    <ellipse cx="56.5" cy="70.0" rx=".65" ry="1.0"/>
+    <ellipse cx="70.8" cy="76.5" rx=".6" ry="1.0"/>
+    <ellipse cx="61.0" cy="90.0" rx=".7" ry="1.1"/>
+    <ellipse cx="74.0" cy="88.0" rx=".65" ry="1.0"/>
+    <ellipse cx="53.0" cy="96.0" rx=".55" ry=".9"/>
+    <ellipse cx="41.5" cy="68.5" rx=".5" ry=".9"/>
+    <ellipse cx="84.7" cy="91.5" rx=".55" ry=".9"/>
+    <ellipse cx="76.8" cy="99.0" rx=".55" ry=".9"/>
+  </g>
+</svg>
